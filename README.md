@@ -28,15 +28,6 @@ This repository contains an unsupervised machine learning project that analyzes 
 
 ---
 
-## 🛠️ Technologies Used
-
-- **Python**
-- **Pandas, NumPy** – data manipulation
-- **Matplotlib, Seaborn** – data visualization
-- **Scikit-learn** – clustering (KMeans), scaling, PCA
-
----
-
 ## Results
 
 - Wines were successfully grouped into **4 distinct clusters**
